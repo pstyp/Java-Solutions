@@ -4,7 +4,7 @@ package com.qa.demo;
 public class UniqueSum {
 
 	public static void main(String[] args) {
-		System.out.println(uniqueSum(1, 1, 2));
+		System.out.println(uniqueSum(3, 3, 3));
 	}
 
 

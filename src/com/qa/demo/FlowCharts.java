@@ -3,7 +3,7 @@ package com.qa.demo;
 public class FlowCharts {
 
 	public static void main(String[] args) {
-		flowDecision(5, 6, true);
+//		flowDecision(5, 6, false);
 		flowDecisionProject(50);
 
 	}

@@ -3,7 +3,7 @@ package com.qa.demo;
 public class BlackJack {
 	
 	public static void main(String[] args) {
-		System.out.println(blackJack(25, 5));
+		System.out.println(blackJack(11, 11));
 	}
 	
 	public static int blackJack(int num1, int num2) {

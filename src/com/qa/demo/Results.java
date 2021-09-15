@@ -1,10 +1,10 @@
 package com.qa.demo;
 
 public class Results {
-	public static int physics;
-	public static int chemistry;
-	public static int biology;
-	public static int total;
+	public static double physics;
+	public static double chemistry;
+	public static double biology;
+	public static double total;
 	public static double percentage;
 
 	public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Results {
 		method2();
 	}
 
-	public static void method1(int phygrade, int chemgrade, int biograde) {
+	public static void method1(double phygrade, double chemgrade, double biograde) {
 
 		physics = phygrade;
 		chemistry = chemgrade;
